@@ -1,0 +1,2 @@
+# Alvarez-Marsal-IT-Enablement-Human-Resources-Strategy-and-Organizational-Behavior-in-Consultancy
+This report examines A&amp;M’s organizational function, HR practices, IT challenges, and behavioral dimensions that underpin its distinctive consultancy model. It further analyzes an IT-enabled intervention for managing IT talent during financial restructuring, showcasing how technology reinforces A&amp;M’s execution-driven ethos.
